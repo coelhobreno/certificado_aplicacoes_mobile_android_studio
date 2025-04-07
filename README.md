@@ -11,6 +11,6 @@ O curso aborda o desenvolvimento de aplicações mobile com foco em Android Stud
 
 ## Certificação
 
-📄 [Clique aqui para ver o certificado (PDF)](certificado-android.pdf)
+📄 [Clique aqui para ver o certificado (PDF)](Certificado.pdf)
 
 [Validar Certificado](https://www.ev.org.br/validar-certificado)
