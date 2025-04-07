@@ -9,4 +9,8 @@ Este projeto foi desenvolvido com base nos conhecimentos adquiridos no curso **D
 **Descrição:**  
 O curso aborda o desenvolvimento de aplicações mobile com foco em Android Studio, apresentando conceitos fundamentais, práticas de criação de projetos, utilização de layouts, requisições HTTP, carregamento de arquivos externos e publicação de aplicativos. Também enfatiza boas práticas de programação para melhor experiência do usuário.
 
+## Certificação
+
+📄 [Clique aqui para ver o certificado (PDF)](certificado-android.pdf)
+
 [Validar Certificado](https://www.ev.org.br/validar-certificado)
