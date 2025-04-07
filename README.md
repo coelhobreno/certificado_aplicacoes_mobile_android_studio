@@ -1,6 +1,6 @@
 ## Certificação
 
-Este projeto foi desenvolvido com base nos conhecimentos adquiridos no curso **Desenvolvendo Aplicações Mobile com Android Studio**, oferecido pela [Escola Virtual da Fundação Bradesco](https://www.ev.org.br/).
+Certificado de conclusão do curso **Desenvolvendo Aplicações Mobile com Android Studio** oferecido pela [Escola Virtual da Fundação Bradesco](https://www.ev.org.br/).Fundação Bradesco](https://www.ev.org.br/).
 
 **Curso:** Desenvolvendo Aplicações Mobile com Android Studio  
 **Duração:** 15 horas  
